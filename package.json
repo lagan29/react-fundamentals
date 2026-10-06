@@ -1,39 +1,26 @@
 {
   "name": "my-app",
-  "version": "0.1.0",
-  "private": true,
-  "dependencies": {
-    "@testing-library/dom": "^10.4.1",
-    "@testing-library/jest-dom": "^6.9.1",
-    "@testing-library/react": "^16.3.2",
-    "@testing-library/user-event": "^13.5.0",
-    "react": "^19.2.4",
-    "react-dom": "^19.2.4",
-    "react-scripts": "5.0.1",
-    "web-vitals": "^2.1.4"
+  "version": "1.0.0",
+  "description": "This is the way i am doing npm init in my project through the lecture of namastey dev . npm is a standard repo for managing all the packages . ",
+  "homepage": "https://github.com/lagan29/react-fundamentals#readme",
+  "bugs": {
+    "url": "https://github.com/lagan29/react-fundamentals/issues"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lagan29/react-fundamentals.git"
+  },
+  "license": "ISC",
+  "author": "lagan",
+  "type": "commonjs",
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "test": "jest"
   },
-  "eslintConfig": {
-    "extends": [
-      "react-app",
-      "react-app/jest"
-    ]
+  "devDependencies": {
+    "parcel": "^2.16.4"
   },
-  "browserslist": {
-    "production": [
-      ">0.2%",
-      "not dead",
-      "not op_mini all"
-    ],
-    "development": [
-      "last 1 chrome version",
-      "last 1 firefox version",
-      "last 1 safari version"
-    ]
+  "dependencies": {
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0"
   }
 }
