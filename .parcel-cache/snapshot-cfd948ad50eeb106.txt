@@ -1,14 +1,14 @@
-3633
+3637
 88C:\Users\lagan.sahotra\Desktop\react-practice\my-app\node_modules\@parcel\diagnostic\src134357552730889623 1
 119C:\Users\lagan.sahotra\Desktop\react-practice\my-app\node_modules\@swc\helpers\cjs\_object_without_properties_loose.cjs134357552672638707 0
-84C:\Users\lagan.sahotra\Desktop\react-practice\my-app\node_modules\.package-lock.json134357608520497031 0
+84C:\Users\lagan.sahotra\Desktop\react-practice\my-app\node_modules\.package-lock.json134357640572717119 0
 119C:\Users\lagan.sahotra\Desktop\react-practice\my-app\node_modules\@parcel\core\test\fixtures\config\subfolder\.parcelrc134357552734017241 0
 82C:\Users\lagan.sahotra\Desktop\react-practice\my-app\node_modules\type-fest\source134357552659597107 1
-65C:\Users\lagan.sahotra\Desktop\react-practice\my-app\package.json134357608519812820 0
+65C:\Users\lagan.sahotra\Desktop\react-practice\my-app\package.json134358463629177339 0
 97C:\Users\lagan.sahotra\Desktop\react-practice\my-app\node_modules\caniuse-lite\data\regions\ZM.js134357552755844376 0
 82C:\Users\lagan.sahotra\Desktop\react-practice\my-app\node_modules\msgpackr-extract134357552653946714 1
 127C:\Users\lagan.sahotra\Desktop\react-practice\my-app\node_modules\@parcel\workers\test\integration\workerfarm\reverse-handle.js134357552688257039 0
-70C:\Users\lagan.sahotra\Desktop\react-practice\my-app\package-lock.json134357608520128950 0
+70C:\Users\lagan.sahotra\Desktop\react-practice\my-app\package-lock.json134357640571808062 0
 118C:\Users\lagan.sahotra\Desktop\react-practice\my-app\node_modules\@parcel\utils\test\input\sourcemap\referenced-min.js134357552771946599 0
 97C:\Users\lagan.sahotra\Desktop\react-practice\my-app\node_modules\caniuse-lite\data\regions\KZ.js134357552723217821 0
 119C:\Users\lagan.sahotra\Desktop\react-practice\my-app\node_modules\caniuse-lite\data\features\comparedocumentposition.js134357552670053552 0
@@ -23,13 +23,13 @@
 115C:\Users\lagan.sahotra\Desktop\react-practice\my-app\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest2.c134357552691047433 0
 90C:\Users\lagan.sahotra\Desktop\react-practice\my-app\node_modules\weak-lru-cache\README.md134357552655238574 0
 98C:\Users\lagan.sahotra\Desktop\react-practice\my-app\node_modules\@parcel\utils\src\escape-html.js134357552729404084 0
-57C:\Users\lagan.sahotra\Desktop\react-practice\my-app\dist134357608987805961 1
+57C:\Users\lagan.sahotra\Desktop\react-practice\my-app\dist134357640832980999 1
 91C:\Users\lagan.sahotra\Desktop\react-practice\my-app\node_modules\semver\ranges\simplify.js134357552683258202 0
 82C:\Users\lagan.sahotra\Desktop\react-practice\my-app\node_modules\is-glob\index.js134357552650064466 0
-63C:\Users\lagan.sahotra\Desktop\react-practice\my-app\.gitignore134357591509536754 0
+63C:\Users\lagan.sahotra\Desktop\react-practice\my-app\.gitignore134357665451646417 0
 83C:\Users\lagan.sahotra\Desktop\react-practice\my-app\node_modules\@msgpackr-extract134357552647933673 1
 88C:\Users\lagan.sahotra\Desktop\react-practice\my-app\node_modules\@parcel\types-internal134357552677363405 1
-59C:\Users\lagan.sahotra\Desktop\react-practice\my-app\App.js134356787006527669 0
+59C:\Users\lagan.sahotra\Desktop\react-practice\my-app\App.js134357640819376412 0
 99C:\Users\lagan.sahotra\Desktop\react-practice\my-app\node_modules\@parcel\core\src\public\Bundle.js134357552740360183 0
 80C:\Users\lagan.sahotra\Desktop\react-practice\my-app\node_modules\supports-color134357552651909461 1
 111C:\Users\lagan.sahotra\Desktop\react-practice\my-app\node_modules\caniuse-lite\data\features\permissions-api.js134357552734496630 0
@@ -47,7 +47,7 @@
 102C:\Users\lagan.sahotra\Desktop\react-practice\my-app\node_modules\@swc\helpers\cjs\_overload_yield.cjs134357552672936293 0
 70C:\Users\lagan.sahotra\Desktop\react-practice\my-app\node_modules\lmdb134357552704326473 1
 109C:\Users\lagan.sahotra\Desktop\react-practice\my-app\node_modules\caniuse-lite\data\features\sharedworkers.js134357552741064790 0
-63C:\Users\lagan.sahotra\Desktop\react-practice\my-app\index.html134357608987147056 0
+63C:\Users\lagan.sahotra\Desktop\react-practice\my-app\index.html134357636999720927 0
 97C:\Users\lagan.sahotra\Desktop\react-practice\my-app\node_modules\@swc\helpers\_\_read_only_error134357552701166369 1
 93C:\Users\lagan.sahotra\Desktop\react-practice\my-app\node_modules\lightningcss-win32-x64-msvc134357552652756691 1
 87C:\Users\lagan.sahotra\Desktop\react-practice\my-app\node_modules\json5\lib\register.js134357552655032948 0
@@ -765,7 +765,7 @@
 98C:\Users\lagan.sahotra\Desktop\react-practice\my-app\node_modules\react-dom\static.react-server.js134357608519538020 0
 106C:\Users\lagan.sahotra\Desktop\react-practice\my-app\node_modules\caniuse-lite\data\features\pdf-viewer.js134357552734343923 0
 136C:\Users\lagan.sahotra\Desktop\react-practice\my-app\node_modules\msgpackr-extract\node_modules\node-gyp-build-optional-packages\LICENSE134357552738061975 0
-79C:\Users\lagan.sahotra\Desktop\react-practice\my-app\node_modules\scheduler\cjs134357608495487471 1
+79C:\Users\lagan.sahotra\Desktop\react-practice\my-app\node_modules\scheduler\cjs134357608495750676 1
 102C:\Users\lagan.sahotra\Desktop\react-practice\my-app\node_modules\@parcel\types-internal\src\unsafe.js134357552676632347 0
 97C:\Users\lagan.sahotra\Desktop\react-practice\my-app\node_modules\caniuse-lite\data\regions\BT.js134357552664127210 0
 81C:\Users\lagan.sahotra\Desktop\react-practice\my-app\node_modules\globals\license134357552649493275 0
@@ -862,7 +862,7 @@
 110C:\Users\lagan.sahotra\Desktop\react-practice\my-app\node_modules\caniuse-lite\data\features\css-snappoints.js134357552689153675 0
 111C:\Users\lagan.sahotra\Desktop\react-practice\my-app\node_modules\caniuse-lite\data\features\resource-timing.js134357552738282124 0
 102C:\Users\lagan.sahotra\Desktop\react-practice\my-app\node_modules\@parcel\workers\lib\web\WebWorker.js134357552688887279 0
-79C:\Users\lagan.sahotra\Desktop\react-practice\my-app\node_modules\react-dom\cjs134357608518625020 1
+79C:\Users\lagan.sahotra\Desktop\react-practice\my-app\node_modules\react-dom\cjs134357608518902123 1
 142C:\Users\lagan.sahotra\Desktop\react-practice\my-app\node_modules\node-gyp-build-optional-packages\node_modules\detect-libc\lib\detect-libc.js134357552650526542 0
 97C:\Users\lagan.sahotra\Desktop\react-practice\my-app\node_modules\caniuse-lite\data\regions\VN.js134357552750528460 0
 101C:\Users\lagan.sahotra\Desktop\react-practice\my-app\node_modules\caniuse-lite\data\features\woff2.js134357552754675129 0
@@ -940,7 +940,7 @@
 98C:\Users\lagan.sahotra\Desktop\react-practice\my-app\node_modules\@parcel\packager-js\src\utils.js134357552717543228 0
 97C:\Users\lagan.sahotra\Desktop\react-practice\my-app\node_modules\caniuse-lite\data\regions\FR.js134357552710557782 0
 86C:\Users\lagan.sahotra\Desktop\react-practice\my-app\node_modules\@swc\helpers\LICENSE134357552666745736 0
-75C:\Users\lagan.sahotra\Desktop\react-practice\my-app\node_modules\react\cjs134357607177361754 1
+75C:\Users\lagan.sahotra\Desktop\react-practice\my-app\node_modules\react\cjs134357607177642960 1
 116C:\Users\lagan.sahotra\Desktop\react-practice\my-app\node_modules\@parcel\utils\test\input\sourcemap\no-sourcemap.js134357552770939043 0
 101C:\Users\lagan.sahotra\Desktop\react-practice\my-app\node_modules\caniuse-lite\data\regions\alt-eu.js134357552658766160 0
 87C:\Users\lagan.sahotra\Desktop\react-practice\my-app\node_modules\commander\lib\help.js134357552724788498 0
@@ -2192,7 +2192,7 @@
 112C:\Users\lagan.sahotra\Desktop\react-practice\my-app\node_modules\caniuse-lite\data\features\domcontentloaded.js134357552699352658 0
 123C:\Users\lagan.sahotra\Desktop\react-practice\my-app\node_modules\@parcel\package-manager\test\fixtures\packages\a\index.js134357552747663239 0
 105C:\Users\lagan.sahotra\Desktop\react-practice\my-app\node_modules\caniuse-lite\data\features\dommatrix.js134357552699396359 0
-68C:\Users\lagan.sahotra\Desktop\react-practice\my-app\dist\index.html134357608987733202 0
+68C:\Users\lagan.sahotra\Desktop\react-practice\my-app\dist\index.html134357640829243784 0
 104C:\Users\lagan.sahotra\Desktop\react-practice\my-app\node_modules\caniuse-lite\data\features\download.js134357552699486439 0
 105C:\Users\lagan.sahotra\Desktop\react-practice\my-app\node_modules\@parcel\runtime-js\src\helpers\.babelrc134357552715350419 0
 106C:\Users\lagan.sahotra\Desktop\react-practice\my-app\node_modules\caniuse-lite\data\features\websockets.js134357552753823922 0
@@ -2570,6 +2570,7 @@
 121C:\Users\lagan.sahotra\Desktop\react-practice\my-app\node_modules\@swc\helpers\_\_ts_add_disposable_resource\package.json134357552704464244 0
 103C:\Users\lagan.sahotra\Desktop\react-practice\my-app\node_modules\@swc\helpers\_\_to_array\package.json134357552703506988 0
 100C:\Users\lagan.sahotra\Desktop\react-practice\my-app\node_modules\@swc\helpers\_\_throw\package.json134357552703165753 0
+80C:\Users\lagan.sahotra\Desktop\react-practice\my-app\dist\my-app.cb65f72e.js.map134357640831605802 0
 105C:\Users\lagan.sahotra\Desktop\react-practice\my-app\node_modules\@swc\helpers\esm\_async_to_generator.js134357552681735338 0
 110C:\Users\lagan.sahotra\Desktop\react-practice\my-app\node_modules\@swc\helpers\_\_super_prop_base\package.json134357552702404566 0
 96C:\Users\lagan.sahotra\Desktop\react-practice\my-app\node_modules\@parcel\watcher\src\binding.cc134357552676305029 0
@@ -2665,6 +2666,7 @@
 107C:\Users\lagan.sahotra\Desktop\react-practice\my-app\node_modules\@swc\helpers\src\_non_iterable_spread.mjs134357552712776211 0
 100C:\Users\lagan.sahotra\Desktop\react-practice\my-app\node_modules\@parcel\packager-js\lib\helpers.js134357552716592877 0
 101C:\Users\lagan.sahotra\Desktop\react-practice\my-app\node_modules\@swc\helpers\src\_object_spread.mjs134357552712906329 0
+76C:\Users\lagan.sahotra\Desktop\react-practice\my-app\dist\my-app.6bd02f5a.js134357612483415903 0
 102C:\Users\lagan.sahotra\Desktop\react-practice\my-app\node_modules\@swc\helpers\src\_overload_yield.mjs134357552713063112 0
 115C:\Users\lagan.sahotra\Desktop\react-practice\my-app\node_modules\@swc\helpers\src\_possible_constructor_return.mjs134357552713093112 0
 103C:\Users\lagan.sahotra\Desktop\react-practice\my-app\node_modules\@swc\helpers\src\_read_only_error.mjs134357552713144053 0
@@ -2907,7 +2909,7 @@
 88C:\Users\lagan.sahotra\Desktop\react-practice\my-app\node_modules\@parcel\compressor-raw134357552723016554 1
 95C:\Users\lagan.sahotra\Desktop\react-practice\my-app\node_modules\@lmdb\lmdb-win32-x64\index.js134357552654380510 0
 78C:\Users\lagan.sahotra\Desktop\react-practice\my-app\node_modules\@parcel\core134357552764645945 1
-80C:\Users\lagan.sahotra\Desktop\react-practice\my-app\dist\my-app.3464ddca.js.map134357601621999784 0
+80C:\Users\lagan.sahotra\Desktop\react-practice\my-app\dist\my-app.3464ddca.js.map134357612482948458 0
 87C:\Users\lagan.sahotra\Desktop\react-practice\my-app\node_modules\@parcel\error-overlay134357552680311570 1
 76C:\Users\lagan.sahotra\Desktop\react-practice\my-app\node_modules\@parcel\fs134357552755724830 1
 87C:\Users\lagan.sahotra\Desktop\react-practice\my-app\node_modules\@parcel\markdown-ansi134357552655767493 1
@@ -3095,7 +3097,7 @@
 108C:\Users\lagan.sahotra\Desktop\react-practice\my-app\node_modules\@parcel\types-internal\lib\FileSystem.d.ts134357552679024228 0
 87C:\Users\lagan.sahotra\Desktop\react-practice\my-app\node_modules\@parcel\types\LICENSE134357552698317054 0
 92C:\Users\lagan.sahotra\Desktop\react-practice\my-app\node_modules\@parcel\types\package.json134357552698563417 0
-76C:\Users\lagan.sahotra\Desktop\react-practice\my-app\dist\my-app.3464ddca.js134357601621895984 0
+76C:\Users\lagan.sahotra\Desktop\react-practice\my-app\dist\my-app.3464ddca.js134357612482851689 0
 83C:\Users\lagan.sahotra\Desktop\react-practice\my-app\node_modules\@parcel\types\src134357552698430011 1
 86C:\Users\lagan.sahotra\Desktop\react-practice\my-app\node_modules\@lmdb\lmdb-win32-x64134357552718795236 1
 92C:\Users\lagan.sahotra\Desktop\react-practice\my-app\node_modules\@parcel\types\src\index.js134357552698450023 0
@@ -3275,7 +3277,7 @@
 107C:\Users\lagan.sahotra\Desktop\react-practice\my-app\node_modules\@parcel\reporter-dev-server\src\templates134357552733425349 1
 128C:\Users\lagan.sahotra\Desktop\react-practice\my-app\node_modules\@parcel\core\test\fixtures\custom-format-mismatch\package.json134357552763417394 0
 111C:\Users\lagan.sahotra\Desktop\react-practice\my-app\node_modules\@parcel\reporter-dev-server\src\types.js.flow134357552733249667 0
-77C:\Users\lagan.sahotra\Desktop\react-practice\my-app\dist\my-app.9e4c6fd2.css134357601621975685 0
+77C:\Users\lagan.sahotra\Desktop\react-practice\my-app\dist\my-app.9e4c6fd2.css134357640828933920 0
 116C:\Users\lagan.sahotra\Desktop\react-practice\my-app\node_modules\@parcel\reporter-dev-server\src\templates\404.html134357552733315678 0
 116C:\Users\lagan.sahotra\Desktop\react-practice\my-app\node_modules\@parcel\reporter-dev-server\src\templates\500.html134357552733434826 0
 99C:\Users\lagan.sahotra\Desktop\react-practice\my-app\node_modules\@parcel\reporter-cli\package.json134357552771056213 0
@@ -3284,6 +3286,7 @@
 111C:\Users\lagan.sahotra\Desktop\react-practice\my-app\node_modules\@parcel\reporter-cli\test\CLIReporter.test.js134357552770626772 0
 103C:\Users\lagan.sahotra\Desktop\react-practice\my-app\node_modules\@parcel\reporter-cli\src\logLevels.js134357552770772428 0
 105C:\Users\lagan.sahotra\Desktop\react-practice\my-app\node_modules\@parcel\reporter-cli\src\phaseReport.js134357552770849745 0
+80C:\Users\lagan.sahotra\Desktop\react-practice\my-app\dist\my-app.6bd02f5a.js.map134357612483460478 0
 99C:\Users\lagan.sahotra\Desktop\react-practice\my-app\node_modules\@parcel\reporter-cli\src\utils.js134357552770996218 0
 105C:\Users\lagan.sahotra\Desktop\react-practice\my-app\node_modules\@parcel\reporter-cli\lib\CLIReporter.js134357552766457194 0
 109C:\Users\lagan.sahotra\Desktop\react-practice\my-app\node_modules\@parcel\reporter-cli\lib\CLIReporter.js.map134357552790859216 0
@@ -3527,7 +3530,7 @@
 89C:\Users\lagan.sahotra\Desktop\react-practice\my-app\node_modules\@parcel\core\src\public134357552760525270 1
 91C:\Users\lagan.sahotra\Desktop\react-practice\my-app\node_modules\@parcel\core\src\requests134357552762837092 1
 96C:\Users\lagan.sahotra\Desktop\react-practice\my-app\node_modules\@parcel\core\src\serializer.js134357552759359099 0
-81C:\Users\lagan.sahotra\Desktop\react-practice\my-app\dist\my-app.9e4c6fd2.css.map134357601622035281 0
+81C:\Users\lagan.sahotra\Desktop\react-practice\my-app\dist\my-app.9e4c6fd2.css.map134357640830198921 0
 108C:\Users\lagan.sahotra\Desktop\react-practice\my-app\node_modules\@parcel\core\src\serializerCore.browser.js134357552759675346 0
 100C:\Users\lagan.sahotra\Desktop\react-practice\my-app\node_modules\@parcel\core\src\serializerCore.js134357552759790626 0
 109C:\Users\lagan.sahotra\Desktop\react-practice\my-app\node_modules\@parcel\core\src\TargetDescriptor.schema.js134357552760679780 0
@@ -3632,3 +3635,4 @@
 81C:\Users\lagan.sahotra\Desktop\react-practice\my-app\node_modules\.bin\parcel.cmd134357553074927821 0
 77C:\Users\lagan.sahotra\Desktop\react-practice\my-app\node_modules\.bin\semver134357553074752104 0
 97C:\Users\lagan.sahotra\Desktop\react-practice\my-app\node_modules\.bin\update-browserslist-db.cmd134357553075283106 0
+76C:\Users\lagan.sahotra\Desktop\react-practice\my-app\dist\my-app.cb65f72e.js134357640831088559 0
